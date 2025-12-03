@@ -49,7 +49,7 @@
 
 ## 📞 联系作者
 
-- **Website**: [www.crazykk.tech](https://www.crazykk.tech)
+- **Website**: [game.chuankangkk.top](https://game.chuankangkk.top)
 - **GitHub**: [@1837620622](https://github.com/1837620622)
 - **Email**: 2040168455@qq.com
 - **WeChat**: 1837620622 (传康 kk)
